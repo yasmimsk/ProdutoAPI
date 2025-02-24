@@ -11,6 +11,7 @@ Este projeto possui os seguintes componentes principais:
 - **ProdutoDbContext**: O contexto de banco de dados do Entity Framework Core, que gerencia as entidades e a comunicação com o banco de dados.
 - **Controllers**: Implementação dos endpoints da API para lidar com as requisições HTTP.
 - **Migrations**: Arquivos de criação e atualização do banco de dados.
+- **ProdutoAPI.Tests**: Projeto de testes unitários.
 
 ## Endpoints Disponíveis
 - GET /produtos: Retorna todos os produtos ordenados.
